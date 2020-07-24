@@ -4,9 +4,9 @@ This is a collection of models I have made for the robot in Electronics class wh
 Contributions are welcome
 
 # Index
--  [Servo Arm](Models/Servo%20Arm")
--  [Arduino Fittings]("Models/Arduino%20Fittings")
--  [Servo Holster]("Models/Servo%20Holster")
+-  [Servo Arm](Models/Servo%20Arm)
+-  [Arduino Fittings](Models/Arduino%20Fittings)
+-  [Servo Holster](Models/Servo%20Holster)
 
 # How To Import
 1. Download the .STL by either going to the file in GitHub and pressing download or cloning this repository as shown below
